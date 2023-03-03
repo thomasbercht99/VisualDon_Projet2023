@@ -4,7 +4,8 @@
 
 ## 📺📽️ Netflix 📺📽️ 
 
-Projet pratique de Visualisation de données 
+Projet pratique de Visualisation de données. Le but de ce projet est d'apprendre à utliser la librairie D3 en créant un projet sur une thématique à choix. Dans notre cas nous avons choisi de travailler avec un dataset de Netflix.
+
 Groupe: Thomas Bercht(M50-2) & Andy Kanga (M50-1)
 
 
