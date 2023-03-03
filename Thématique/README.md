@@ -1,9 +1,11 @@
+# VisualDon_Projet_Thomas-Dorian
+
 # Thématique
 
-## 🏋️‍♀️🏋️‍♂️Netflix🏋️‍♀️🏋️‍♂️
+## 📺 Netflix 📺
 
 Projet pratique de Visualisation de données 
-Groupe: Thomas Bercht M50-2 et Andy Kanga  M50-1
+Groupe: Thomas Bercht(M50-2) & Andy Kanga (M50-1)
 
 
 ## Contexte
@@ -25,6 +27,8 @@ Les données sont au format .csv. Elles sont triées en 6 colonnes différentes:
 Nous avons pour but d'expliquer tous les exercices de musculation qui existent. Nous souhaitons expliquer avec le dessin d'un corps humain, quel exercice cible quel muscle. Le but du projet est que lorsque l'utilisateur passe la souris sur un muscle, il puisse facilement avoir accès aux exercices liés à ce muscle.
 
 ## Références
-Nous n'avons pas trouvé un site web utilisant exactement les mêmes données mais "MuscleWiki" est un site dans lequel il est possible d'y retrouver un corps humain cliquable par l'utilisateur afin de retrouver les exercices de musculations correspond au muscle cliqué. Ce qui rejoint ce que nous souhaitons réalisé.
+Qui d'autre dans le web ou dans la recherche a utilisé ces données ? Dans quel but ?
+
+Nous n'avons pas trouvé un site web utilisant exactement les mêmes données mais MuscleWiki est un site dans lequel il est possible d'y retrouver un corps humain cliquable par l'utilisateur afin de retrouver les exercices de musculations correspond au muscle cliqué. Ce qui rejoint ce que nous souhaitons réalisé.
 
 Lien du dataset : https://www.kaggle.com/edoardoba/fitness-exercises-with-animations
