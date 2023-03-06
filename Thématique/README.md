@@ -10,7 +10,7 @@ Groupe: Thomas Bercht(M50-2) & Andy Kanga (M50-1)
 
 
 ## Contexte
-Ce dataset a été créé par Victor Soeiro. Il a été créé dans le but de lister toutes les séries disponibles en streaming sur Netflix et analyser les données afin de trouver des faits intéressants. Les sources de ces données proviennent des Etats-Unis.
+Ce dataset a été créé par Victor Soeiro. Son but était de lister toutes les séries disponibles en streaming sur Netflix et analyser les données afin de trouver des faits intéressants. Les sources de ces données proviennent des Etats-Unis.
 
 
 ## Description
